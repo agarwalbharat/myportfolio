@@ -1,0 +1,23 @@
+{
+    "name": "Bharat Agarwal",
+    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "intro": "Some introduction of yours and it can be as much as large",
+    "skills": [{
+            "title": "Skill 1",
+            "rating": "90"
+        },
+        {
+            "title": "Skill 2",
+            "rating": "97"
+        },
+        {
+            "title": "Skill 3",
+            "rating": "85"
+        }
+    ],
+    "contact": {
+        "location": "Chandigarh University",
+        "phone": "xxxxxxxxxx",
+        "email": "xxxxxx@xxxx.xxx"
+    }
+}
