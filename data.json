@@ -1,5 +1,5 @@
 {
-    "name": "Bharat Agarwal",
+    "name": "Bharat Agsrwal",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
@@ -14,7 +14,13 @@
             "title": "Skill 3",
             "rating": "85"
         },{
-            "title": "Skill 1",
+            "title": "Skill 4",
+            "rating": "80"
+        },{
+            "title": "Skill 5",
+            "rating": "78"
+        },{
+            "title": "Skill 6",
             "rating": "90"
         }
     ],
