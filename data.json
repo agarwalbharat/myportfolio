@@ -5,25 +5,25 @@
     "skills": [{
             "title": "C",
             "rating": "90"
-        }
+        },
         {
             "title": "Cpp",
             "rating": "97"
-        }
+        },
         {
             "title": "JAVA",
             "rating": "85"
-        }{
+        },{
             "title": "Html",
             "rating": "90"
-        }{
+        },{
             "title": "CSS",
             "rating": "90"
-        }{
+        },{
             "title": "Android",
             "rating": "60"
         }
-    ]
+    ],
     "contact": {
         "location": "Chitkara University",
         "phone": "7087440599",
