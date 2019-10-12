@@ -1,32 +1,26 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "SAI GOUTHAM",
+    "title": "STUDENT",
+    "intro": "tECHNOLOGY ENTHUISAST, CYBER GEEK AND BODY BUILDER",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "JAVA",
+            "rating": "70"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "HTML"
+            "rating": "80"
         },
         {
-            "title": "Skill 3",
+            "title": "NETWORKING",
             "rating": "85"
         },{
-            "title": "Skill 4",
+            "title": ".NET FRAMEWORK",
             "rating": "80"
-        },{
-            "title": "Skill 5",
-            "rating": "78"
-        },{
-            "title": "Skill 6",
-            "rating": "90"
         }
     ],
     "contact": {
         "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "phone": "8639663920",
+        "email": "connectsaigoutham@gmail.com"
     }
 }
