@@ -15,14 +15,15 @@
             "rating": "85"
         },{
             "title": "Amazon Alexa Web Doveloper",
-            "rating": "80"
+            "rating": "88"
         },{
-            "title": "HTML5",
-            "rating": "78"
-        },{
-            "title": "Good gamer",
+            "title": "Front End Web Dovelopment",
+            "rating": "89"
+        
+                {
+            "title": "Python",
             "rating": "90"
-        }
+        },
     ],
     "contact": {
         "location": "Lovely Professinol University",
