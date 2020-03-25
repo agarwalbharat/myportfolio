@@ -1,32 +1,33 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Kanigolla Naga Venkata Bala Likhith",
+    "title": "I am a Good  Gaming and good doveloper",
+    "intro": "Btech CSE student in Lovely Professinol University",
     "skills": [{
-            "title": "Skill 1",
+            "title": "Good Programmer",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Good Speaker",
+            "rating": "86"
         },
         {
-            "title": "Skill 3",
+            "title": "Good Lisener",
             "rating": "85"
         },{
-            "title": "Skill 4",
-            "rating": "80"
+            "title": "Amazon Alexa Web Doveloper",
+            "rating": "88"
         },{
-            "title": "Skill 5",
-            "rating": "78"
-        },{
-            "title": "Skill 6",
+            "title": "Front End Web Dovelopment",
+            "rating": "89"
+        
+                {
+            "title": "Python",
             "rating": "90"
-        }
+        },
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professinol University",
+        "phone": "9573618704",
+        "email": "likhithkanigolla@gmail.com"
     }
 }
