@@ -1,32 +1,32 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "name": "Shivani Goyal",
+    "title": "Full Stack developer and android developer.I love learning new things.",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
+            "title": "C",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
+            "title": "Cpp",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "JAVA",
             "rating": "85"
         },{
-            "title": "Skill 4",
-            "rating": "80"
-        },{
-            "title": "Skill 5",
-            "rating": "78"
-        },{
-            "title": "Skill 6",
+            "title": "Html",
             "rating": "90"
+        },{
+            "title": "CSS",
+            "rating": "90"
+        },{
+            "title": "Android",
+            "rating": "60"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "7087440599",
+        "email": "shivanigoyal616@gmail.com"
     }
 }
